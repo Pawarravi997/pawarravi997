@@ -15,17 +15,16 @@ Currently deep-diving into **Data Science & Analytics** — learning to clean, a
 visualize, and model real-world data. Passionate about uncovering patterns and
 building projects that tell stories with numbers.
 
----
 
 ## 🚀 What I'm Up To
 
 | | |
 |---|---|
-| 🔭 Currently working on | Voice Assistant Project |
+| 🔭 Currently working on | EDA & ML projects |
 | 🌱 Currently learning | Data Science, Machine Learning, Analytics |
 | 👯 Looking to collaborate on | Data projects & open source |
 | 💬 Ask me about | Python, SQL, Data Visualization |
-| 📫 Reach me at | pawarravi5674@gmail.com |
+| 📫 Reach me at | your-email@gmail.com |
 | ⚡ Fun fact | Data mein pattern dhundhna = detective work with numbers! |
 
 ---
