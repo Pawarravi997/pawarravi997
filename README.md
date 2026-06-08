@@ -24,7 +24,7 @@ building projects that tell stories with numbers.
 | 🌱 Currently learning | Data Science, Machine Learning, Analytics |
 | 👯 Looking to collaborate on | Data projects & open source |
 | 💬 Ask me about | Python, SQL, Data Visualization |
-| 📫 Reach me at | your-email@gmail.com |
+| 📫 Reach me at | pawarravi5674@gmail.com |
 | ⚡ Fun fact | Data mein pattern dhundhna = detective work with numbers! |
 
 ---
