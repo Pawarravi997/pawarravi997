@@ -45,8 +45,13 @@ building projects that tell stories with numbers.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawarravi997&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawarravi997&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pawarravi997&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarravi997&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawarravi997&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -60,5 +65,5 @@ building projects that tell stories with numbers.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pawarravi997&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=pawarravi997&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
