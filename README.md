@@ -1,11 +1,8 @@
+<h1 align="center">Hi there, I'm Ravi Pawar 👋</h1>
 
-Hi there, I'm Ravi Pawar 👋
-
-
-
-  Data Science & Analytics Enthusiast · Pune, India 🇮🇳
-
-
+<p align="center">
+  <em>Data Science & Analytics Enthusiast · Pune, India 🇮🇳</em>
+</p>
 
 ---
 
@@ -15,26 +12,18 @@ Currently deep-diving into **Data Science & Analytics** — learning to clean, a
 visualize, and model real-world data. Passionate about uncovering patterns and
 building projects that tell stories with numbers.
 
+---
 
 ## 🚀 What I'm Up To
 
 | | |
 |---|---|
-| 🔭 Currently working on | EDA & ML projects |
+| 🔭 Currently working on | EDA & ML Projects |
 | 🌱 Currently learning | Data Science, Machine Learning, Analytics |
 | 👯 Looking to collaborate on | Data projects & open source |
 | 💬 Ask me about | Python, SQL, Data Visualization |
 | 📫 Reach me at | pawarravi5674@gmail.com |
 | ⚡ Fun fact | Data mein pattern dhundhna = detective work with numbers! |
-
----
-
-## 🎙️ Featured Project — Voice Assistant
-
-> A Python-based voice assistant that listens to voice commands and responds
-> intelligently — built to explore Speech Recognition, NLP, and automation.
-
-**Tech used:** Python · SpeechRecognition · pyttsx3 · NLP · Automation
 
 ---
 
@@ -48,7 +37,7 @@ building projects that tell stories with numbers.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&amp;logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
@@ -65,8 +54,8 @@ building projects that tell stories with numbers.
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-pawar-4b385a248/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ravii_pawar_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarravi5674@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR-KAGGLE-USERNAME)
 
 ---
 
