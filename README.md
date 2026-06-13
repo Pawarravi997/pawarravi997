@@ -1,69 +1,24 @@
-<h1 align="center">Hi there, I'm Ravi Pawar 👋</h1>
+# About Me:
+🔭 I’m currently building data-driven projects and interactive dashboards using SQL, Python, Excel, Power BI, and Tableau to solve real-world business challenges.<br><br>👯 I’m looking to collaborate on Data Analytics, Business Intelligence, and Data Science projects that create measurable business impact.<br><br>🤝 I’m seeking mentorship and opportunities to work on industry-level analytics, machine learning, and data-driven decision-making projects.<br><br>🌱 I’m continuously learning Data Science, Statistics, Machine Learning, and advanced analytics techniques to strengthen my problem-solving skills.<br><br>💬 Ask me about SQL, Python, Data Visualization, Dashboard Development, Power BI, Excel, and Data Analytics.<br><br>⚡ Fun fact: I enjoy transforming complex datasets into actionable insights and sharing my learning journey while growing into a Data Analyst.
 
-<p align="center">
-  <em>Data Science & Analytics Enthusiast · Pune, India 🇮🇳</em>
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravii_pawar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-pawar-4b385a248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawarravi5674@gmail.com) 
 
-## 🙋‍♂️ About Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pawarravi997&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Pawarravi997&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pawarravi997&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Currently deep-diving into **Data Science & Analytics** — learning to clean, analyze,
-visualize, and model real-world data. Passionate about uncovering patterns and
-building projects that tell stories with numbers.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🚀 What I'm Up To
-
-| | |
-|---|---|
-| 🔭 Currently working on | EDA & ML Projects |
-| 🌱 Currently learning | Data Science, Machine Learning, Analytics |
-| 👯 Looking to collaborate on | Data projects & open source |
-| 💬 Ask me about | Python, SQL, Data Visualization |
-| 📫 Reach me at | pawarravi5674@gmail.com |
-| ⚡ Fun fact | Data mein pattern dhundhna = detective work with numbers! |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pawarravi997&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Pawarravi997&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawarravi997&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarravi997&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawarravi997&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-pawar-4b385a248/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ravii_pawar_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarravi5674@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawarravi997&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
